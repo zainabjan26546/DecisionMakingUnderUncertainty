@@ -1,0 +1,7 @@
+alternatives cost profit resources time
+Time 5 10 18 25
+Capacity 8 17 8 23
+Location 21 18 12 21 
+Inventory 30 22 19 20
+Incentives 5 19 45 90
+collobartion 6 9 1 19
